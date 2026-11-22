@@ -1,4 +1,4 @@
-const CACHE = 'ashbound-pages-v45';
+const CACHE = 'ashbound-pages-v46';
 
 self.addEventListener('install', (event) => {
   self.skipWaiting();
